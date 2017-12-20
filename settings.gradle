@@ -1,0 +1,4 @@
+include ':app'
+include ':libraries:opencv'
+include ':TensorFlow-Android-Inference'
+
